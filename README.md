@@ -9,11 +9,4 @@ This repo is for Team 30's final project submission for W261. Here we explore th
  - Train/Test models through a custom grid search and cross validation function
  - Validate on unseen data and produce results
 
-
-#### File Structure
-
-```
-<repo root>
-    --submissions
-       |__W261_SP22_FINAL_PROJECT_TEAM30 <-- Final Project Notebook
-```
+Check out the full report [here](https://github.com/jqrnesbitt/predict_flight_delays_from_weather/blob/e2626bedecd279181294313c54e2342cf556d181/submissions/W261_SP22_FINAL_PROJECT_TEAM30.ipynb).
